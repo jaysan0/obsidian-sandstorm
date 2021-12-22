@@ -1,4 +1,4 @@
-# obsidian-theme
+# obsidian-sandstorm
 
 Sandstorm theme for [Obsidian](http://obsidian.md/).
 
