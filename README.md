@@ -1,6 +1,6 @@
 # obsidian-sandstorm
 
-Sandstorm theme for [Obsidian](http://obsidian.md/).
+## Sandstorm theme for [Obsidian](http://obsidian.md/).
 
 Copy the `obsidian.css` file to your vault directory and reload Obsidian.
 
