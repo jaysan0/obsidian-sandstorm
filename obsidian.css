@@ -1508,7 +1508,7 @@ input[type="color"]::-webkit-color-swatch {
   white-space: pre-wrap;
 }
 .suggestion-item.is-selected {
-  background-color: var(--background-secondary);
+  background-color: var(--text-accent-hover);
 }
 .suggestion-prefix:after {
   content: ': ';
