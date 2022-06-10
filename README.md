@@ -4,6 +4,6 @@
 
 Copy the `obsidian.css` file to your vault directory and reload Obsidian.
 
-![dark](https://user-images.githubusercontent.com/96383676/147100674-c04f0579-c859-4181-85eb-c68ad1e5313a.png)
+![dark](https://user-images.githubusercontent.com/96383676/173152728-d8a11b8d-a6ba-4048-8feb-986fa62ec3de.png)
 
-![light](https://user-images.githubusercontent.com/96383676/147100641-9d44dcd8-f56c-4d7f-a648-4bef8e7c2f45.png)
+![light](https://user-images.githubusercontent.com/96383676/173152741-d21b1caf-8f66-4989-9b49-c450c0782b79.png)
