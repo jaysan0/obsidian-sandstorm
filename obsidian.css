@@ -6129,9 +6129,10 @@ code[class*="language-"] {
   text-shadow: none;
   background: #b3d4fc;
 }
+/* edit: code preview background */
 .theme-light :not(pre) > code[class*="language-"],
 .theme-light pre[class*="language-"] {
-  background: #f5f2f0;
+  background: var(--latte);
 }
 .theme-light .token.comment,
 .theme-light .token.prolog,
@@ -6142,11 +6143,12 @@ code[class*="language-"] {
 .theme-light .cm-qualifier {
   color: slategray;
 }
+/* edit: code preview color */
 .theme-light .token.punctuation,
 .theme-light .cm-punctuation,
 .theme-light .cm-bracket,
 .theme-light .cm-hr {
-  color: #999;
+  color: var(--beige);
 }
 .theme-light .token.namespace {
   opacity: 0.7;
@@ -6195,12 +6197,13 @@ code[class*="language-"] {
 .theme-light .cm-def {
   color: #DD4A68;
 }
+/* edit: code preview color */
 .theme-light .token.regex,
 .theme-light .token.important,
 .theme-light .token.variable,
 .theme-light .cm-variable-2,
 .theme-light .cm-variable-3 {
-  color: #e90;
+  color: var(--olive);
 }
 .starter-screen {
   display: flex;
