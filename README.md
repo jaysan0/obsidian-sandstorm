@@ -1,7 +1,5 @@
 # obsidian-sandstorm
 
-## Sandstorm theme for [Obsidian](http://obsidian.md/).
+## A minimal monospace theme for [Obsidian](http://obsidian.md/).
 
-Copy the `obsidian.css` file to your vault directory and reload Obsidian.
-
-![screenshot](https://user-images.githubusercontent.com/96383676/187909572-97142094-6468-4bb8-b413-c4d0dc8de935.png)
+![screenshot](https://user-images.githubusercontent.com/96383676/220329102-e4028ac3-0eb0-4147-b242-2fd332070a9e.png)
