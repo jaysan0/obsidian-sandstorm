@@ -1791,6 +1791,13 @@ body {
   --pdf-shadow: 0 0 0 1px var(--background-modifier-border);
   --pdf-thumbnail-shadow: 0 0 0 1px var(--background-modifier-border);
 }
+.theme-light .cm-active {
+  background-color: #ebca978f;
+}
+
+.theme-dark .cm-active {
+  background-color: #212121;
+}
 iframe {
   color-scheme: normal;
 }
